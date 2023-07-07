@@ -18,6 +18,11 @@ body{
     
 }
 
+.nav a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
 .nav ul {
     margin-left: 150px;
     padding-top: 50px;

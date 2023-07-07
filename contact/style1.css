@@ -22,9 +22,15 @@ body{
     padding-left: 10px;
 }
 
-.nav li {
-    font-size: large;
+.nav a{
+    text-decoration: none;
     color: aliceblue;
+}
+
+.nav li {
+    font-style: normal;
+    font-size: large;
+    
     display: inline;
     margin-left: 50px;
 }

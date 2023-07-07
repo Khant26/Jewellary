@@ -30,6 +30,11 @@ body {
     margin-left: 15px;
 }
 
+.nav a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
 .navi {
     margin-left: 10px;
     padding-top: 20px;
