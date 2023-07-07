@@ -1,0 +1,157 @@
+body{
+    background-image: url(../image/background.jpg);
+}
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.logo-1 {
+    height: 200px;
+    width: 200px;
+}
+
+.nav {
+    height: 130px;
+    
+}
+
+.nav ul {
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+.nav li {
+    font-size: large;
+    color: aliceblue;
+    display: inline;
+    margin-left: 50px;
+}
+
+.nav i,
+p {
+    display: inline;
+    color: yellow;
+    float: right;
+    font-size: larger;
+    margin-right: 70px;
+    margin-bottom: 50px;
+}
+
+.section-1 {
+    margin-left: 250px;
+    
+    height: 500px;
+    width: 1200px;
+    background-image: url(../image/about-us-bg-free-img.jpg);
+    background-size: cover;
+}
+
+.section-1 img{
+    object-fit: contain;
+}
+
+.section-1 h1{
+    font-size: 4.375rem;
+    padding-left: 590px;
+    margin-top: 0;
+    color: white;
+    display: inline;
+}
+
+.section-1 h2{
+    background-color: gold;
+    margin-top: 0;
+    margin-left: 590px;
+    color: rgb(0, 0, 0);
+    width: 600px;
+    height: 30px;
+}
+
+.section-1 hr{
+    color: gold;
+    width: 2px;
+    margin-left: 590px;
+    padding-left: 600px;
+}
+
+.section-1 h4{
+    margin-left: 590px;
+    color: aliceblue;
+}
+
+.footer{
+    color: aliceblue;
+    height: 200px;
+    background-color: black;
+}
+
+.footer h4{
+    margin-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+}
+ 
+.h4 {
+    margin-right: 50px;
+    float: right;
+}
+
+.section-2 {
+    margin-top: 30px;
+    margin-left: 250px;
+    height: 200px;
+    width: 1200px;
+    background-color: #FFDA79;
+}
+
+.section-2 h1{
+    display: inline-block;
+    margin-left: 50px;
+    padding-top: 50px;
+    width: 300px;
+    font-size: xx-large;
+}
+
+.section-2 h4{
+    display: inline-block;
+    font-size: larger;
+    width: 250px;
+    margin-left: 350px;
+}
+
+.section-2 h2{
+    display: inline-block;
+    width: 130px;
+    background-color: aliceblue;
+    padding-left: 10px;
+    border-radius: 15px;
+}
+
+.section-3 iframe{
+    margin-top: 30px;
+    margin-left: 250px;
+    height: 400px;
+    width: 1200px;
+}
+
+.section-4{
+    margin-top: 30px;
+    margin-left: 250px;
+    height: 200px;
+    width: 1200px;
+    background-color: #7A7A7A;
+    margin-bottom: 30px;
+}
+
+.section-4 h1{
+    padding-top: 50px;
+    color: #FFDA79;
+    text-align: center;
+}
+
+.section-4 h2{
+    color:white;
+    text-align: center;
+}

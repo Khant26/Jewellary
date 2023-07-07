@@ -1,0 +1,129 @@
+body,
+html {
+    background-image: url(../image/background.jpg);
+}
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.logo-1 {
+    height: 50px;
+    width: 150px;
+}
+
+.nav {
+    height: 130px;
+    background-color: rgb(0, 0, 0);
+}
+
+.nav ul {
+    padding-top: 50px;
+    padding-left: 80px;
+}
+
+.nav li {
+    font-size: large;
+    color: aliceblue;
+    display: inline;
+    margin-left: 50px;
+}
+
+.nav i,
+p {
+    display: inline;
+    color: yellow;
+    float: right;
+    font-size: larger;
+    margin-right: 70px;
+    margin-bottom: 50px;
+}
+
+.list-items {
+    height: 800px;
+    width: 1300px;
+    background-color: aliceblue;
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+    /* display: inline; */
+}
+
+.filter i,
+h2 {
+    display: inline;
+}
+
+.top{
+    width: 1300px;
+    height:50px;
+    display: inline;
+}
+
+.filter {
+    color: aliceblue;
+    padding-top: 2px;
+    padding-left: 10px;
+    margin-left: 10px;
+    width: 100px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.filter:hover {
+    background-color: yellow;
+}
+
+.top-nav {
+    margin-top: 10px;
+    display: block;
+    float: right;
+}
+
+.footer{
+    color: aliceblue;
+    height: 200px;
+    background-color: black;
+}
+
+.footer h4{
+    margin-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+}
+ 
+.h4 {
+    margin-right: 50px;
+    float: right;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+    transition: 0.4s;
+    width: 300px;
+    background: #fff;
+    float: left;
+    margin: 10px;
+}
+
+.card img{
+    width: 300px;
+}
+
+.card h5,a,h3{
+    text-align: center;
+
+}
+
+.card a{
+    margin-left: 60px;
+}
+
+.list{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
